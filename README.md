@@ -1,6 +1,8 @@
 # Starter Web Repo
 
-##Introduction
+This is a simple website project for showing how to use Git and GitHub togethr=er
+
+## Introduction
 
 This repository is for showing how Git and GitHub work
 
@@ -8,6 +10,6 @@ This repository is for showing how Git and GitHub work
 
 Sample website with plenty of files for demos
 
-##Deployment
+## Deployment
 
 ##How to Contribute
